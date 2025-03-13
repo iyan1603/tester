@@ -3808,6 +3808,27 @@ https://zekonew.iosplayer.ru/zeko/premium447/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://zekonew.iosplayer.ru/zeko/premium448/mono.m3u8
 
+--------
+
+===========================================================================================
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/beINSports.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN 1{4K}
+http://45.139.122.148:8000/play/a004
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/beINSports.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN 2{4K}
+http://45.139.122.148:8000/play/a005
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/beINSports.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN 3{4K}
+http://45.139.122.148:8000/play/a006
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/beINSports.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN 4{4K}
+http://45.139.122.148:8000/play/a007
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/beINSports.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN 5{4K}
+http://45.139.122.148:8000/play/a008
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/beINSports.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN 6{4K}
+http://45.139.122.148:8000/play/a009
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/beINSports.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN 7{4K}
+http://45.139.122.148:8000/play/a00a
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/beINSports.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN 8{4K}
+http://45.139.122.148:8000/play/a00b
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/beINSports.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN 9{4K}
+http://45.139.122.148:8000/play/a00c
 
 ---------
 
