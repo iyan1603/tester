@@ -3685,35 +3685,206 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34
 #EXTINF:-1 tvg-logo="https://hifight.it/wp-content/uploads/2021/11/hifight-600x600-1.jpg" group-title="05. TV OLAHRAGA", Hi-Fight Super sport
 http://49.0.64.96:8007/HIFIGHT
 
+###############################################
+>>>>>>>>>>>>>>>>  SPORT | BEIN SPORT  <<<<<<<<<<<<<<<<<<<<<<
+###############################################
+xxxx[https://raw.githubusercontent.com/quuen2024/llgnew/refs/heads/queen/llgtv](https://github.com/nasikemarin/FEBUARI-2026-indistore/blob/main/FEBUARI-2026)
+==================================VENDOR DAZN================================================
+
+#EXTINF:-1 group-logo="[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkKi1Y5j9TGUhv-7kSEcye1jVigsK-G_pdQKrmFdr4D05i__Eq7zNDQ44X11lwuVKi_CTs-bTyXkdk4JM1h-GmXK5QjHWwdI8sKt7a3bG8spYnRRCbjJuQ9j1m7339Fsdt0m0tz_I4rM_9Fdh-3A3hUyo5nIP6hcPQjidDwWFKej3_O8afJL66UZYhTK4/s1563/DAZN-propose-une-remise-folle-sur-son-abonnement-pendant-quelques-jours-ne-ratez-pas-l-occasion-1935810.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihD1rACEVAUaOW3go9WUbRMBW7SYxhuuGW9hFy7pwyebu8zOkMZKvuwlahaHO1XGsZof37uRvO3fQMXLaL-zZ1RkmSmDO9FPfdEmng8lo5w5ab9UXXZ9hjxg9CJZacFCT25lfio5pCrnOSX7GHusTGl5_g2F4CjFbMdN2c_j67TDaPOo3O0kXLwKu0br4/s844/bein%20sports.png)",16. SPORT | BEIN SPORT
+
+
+===========================================================================================
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/beINSports.png" group-title="16. SPORT | BEIN SPORT",beIN 1{4K}
+http://45.139.122.148:8000/play/a004
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/beINSports.png" group-title="16. SPORT | BEIN SPORT",beIN 2{4K}
+http://45.139.122.148:8000/play/a005
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/beINSports.png" group-title="16. SPORT | BEIN SPORT",beIN 3{4K}
+http://45.139.122.148:8000/play/a006
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/beINSports.png" group-title="16. SPORT | BEIN SPORT",beIN 4{4K}
+http://45.139.122.148:8000/play/a007
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/beINSports.png" group-title="16. SPORT | BEIN SPORT",beIN 5{4K}
+http://45.139.122.148:8000/play/a008
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/beINSports.png" group-title="16. SPORT | BEIN SPORT",beIN 6{4K}
+http://45.139.122.148:8000/play/a009
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/beINSports.png" group-title="16. SPORT | BEIN SPORT",beIN 7{4K}
+http://45.139.122.148:8000/play/a00a
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/beINSports.png" group-title="16. SPORT | BEIN SPORT",beIN 8{4K}
+http://45.139.122.148:8000/play/a00b
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/beINSports.png" group-title="16. SPORT | BEIN SPORT",beIN 9{4K}
+http://45.139.122.148:8000/play/a00c
+
+---------
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS NEWS" tvg-logo="https://lo1.in/bss/bsnews.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN SPORTS NEWS
+http://extraott.com:900/live/3162523972/3791698850/401576238.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS NBA" tvg-logo="https://lo1.in/bss/bsnba.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN SPORTS NBA
+http://extraott.com:900/live/3162523972/3791698850/401576236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS" tvg-logo="https://lo1.in/bss/bs.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN SPORTS
+http://extraott.com:900/live/3162523972/3791698850/401576237.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 1 HD" tvg-logo="https://lo1.in/bss/bs1.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN-SPORTS 1 HD
+http://extraott.com:900/live/3162523972/3791698850/401463440.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 2 HD" tvg-logo="https://lo1.in/bss/bs2.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN-SPORTS 2 HD
+http://extraott.com:900/live/3162523972/3791698850/401463439.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 3 HD" tvg-logo="https://lo1.in/bss/bs3.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN-SPORTS 3 HD
+http://extraott.com:900/live/3162523972/3791698850/401463438.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 4 HD" tvg-logo="https://lo1.in/bss/bs4.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN-SPORTS 4 HD
+http://extraott.com:900/live/3162523972/3791698850/401463437.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 5 HD" tvg-logo="https://lo1.in/bss/bs5.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN-SPORTS 5 HD
+http://extraott.com:900/live/3162523972/3791698850/401463436.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 6 HD" tvg-logo="https://lo1.in/bss/bs6.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN-SPORTS 6 HD
+http://extraott.com:900/live/3162523972/3791698850/401463435.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 7 HD" tvg-logo="https://lo1.in/bss/bs7.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN-SPORTS 7 HD
+http://extraott.com:900/live/3162523972/3791698850/401463434.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 8 HD" tvg-logo="https://lo1.in/bss/bs8.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN-SPORTS 8 HD
+http://extraott.com:900/live/3162523972/3791698850/401463433.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 9 HD" tvg-logo="https://lo1.in/bss/bs9.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN-SPORTS 9 HD
+http://extraott.com:900/live/3162523972/3791698850/401463432.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 1 HD" tvg-logo="https://lo1.in/bss/bsxtra1.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN Extra 1 HD
+http://extraott.com:900/live/3162523972/3791698850/401463431.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 2 HD" tvg-logo="https://lo1.in/bss/xtra.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN Extra 2 HD
+http://extraott.com:900/live/3162523972/3791698850/401577161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 3 HD" tvg-logo="https://lo1.in/bss/xtra.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN Extra 3 HD
+http://extraott.com:900/live/3162523972/3791698850/401577160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN AFC HD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN AFC HD
+http://extraott.com:900/live/3162523972/3791698850/401577159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN AFC 1 HD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN AFC 1 HD
+http://extraott.com:900/live/3162523972/3791698850/401577158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN AFC 2 HD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN AFC 2 HD
+http://extraott.com:900/live/3162523972/3791698850/401577157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN AFC 3 HD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN AFC 3 HD
+http://extraott.com:900/live/3162523972/3791698850/401577156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦| AR - BEIN SPORTS FHD |✦●✦" tvg-logo="https://lo1.in/bss/bs.png" group-title="16. SPORT | BEIN SPORT",✦●✦| AR - BEIN SPORTS FHD |✦●✦
+http://extraott.com:900/live/3162523972/3791698850/401463776.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 1 FHD" tvg-logo="https://lo1.in/bss/bs1.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN-SPORTS 1 FHD
+http://extraott.com:900/live/3162523972/3791698850/401463461.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 2 FHD" tvg-logo="https://lo1.in/bss/bs2.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN-SPORTS 2 FHD
+http://extraott.com:900/live/3162523972/3791698850/401463460.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 3 FHD" tvg-logo="https://lo1.in/bss/bs3.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN-SPORTS 3 FHD
+http://extraott.com:900/live/3162523972/3791698850/401463459.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 4 FHD" tvg-logo="https://lo1.in/bss/bs4.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN-SPORTS 4 FHD
+http://extraott.com:900/live/3162523972/3791698850/401463458.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 5 FHD" tvg-logo="https://lo1.in/bss/bs5.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN-SPORTS 5 FHD
+http://extraott.com:900/live/3162523972/3791698850/401463456.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 6 FHD" tvg-logo="https://lo1.in/bss/bs6.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN-SPORTS 6 FHD
+http://extraott.com:900/live/3162523972/3791698850/401463454.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 7 FHD" tvg-logo="https://lo1.in/bss/bs7.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN-SPORTS 7 FHD
+http://extraott.com:900/live/3162523972/3791698850/401463452.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 8 FHD" tvg-logo="https://lo1.in/bss/bs8.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN-SPORTS 8 FHD
+http://extraott.com:900/live/3162523972/3791698850/401463450.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 9 FHD" tvg-logo="https://lo1.in/bss/bs9.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN-SPORTS 9 FHD
+http://extraott.com:900/live/3162523972/3791698850/401463448.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 1 FHD" tvg-logo="https://lo1.in/bss/bsxtra1.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN Extra 1 FHD
+http://extraott.com:900/live/3162523972/3791698850/401463447.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 2 FHD" tvg-logo="https://lo1.in/bss/bsxtra2.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN Extra 2 FHD
+http://extraott.com:900/live/3162523972/3791698850/401463446.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 3 FHD" tvg-logo="https://lo1.in/bss/bs3btr.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN Extra 3 FHD
+http://extraott.com:900/live/3162523972/3791698850/401463445.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 4 FHD" tvg-logo="https://lo1.in/bss/xtra.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN Extra 4 FHD
+http://extraott.com:900/live/3162523972/3791698850/401576235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 5 FHD" tvg-logo="https://lo1.in/bss/xtra.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN Extra 5 FHD
+http://extraott.com:900/live/3162523972/3791698850/401576234.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 6 FHD" tvg-logo="https://lo1.in/bss/xtra.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN Extra 6 FHD
+http://extraott.com:900/live/3162523972/3791698850/401576233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 7 FHD" tvg-logo="https://lo1.in/bss/xtra.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN Extra 7 FHD
+http://extraott.com:900/live/3162523972/3791698850/401576232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 8 FHD" tvg-logo="https://lo1.in/bss/xtra.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN Extra 8 FHD
+http://extraott.com:900/live/3162523972/3791698850/401576231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 9 FHD" tvg-logo="https://lo1.in/bss/xtra.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN Extra 9 FHD
+http://extraott.com:900/live/3162523972/3791698850/401576230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN AFC FHD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN AFC FHD
+http://extraott.com:900/live/3162523972/3791698850/401463444.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN AFC 1 FHD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN AFC 1 FHD
+http://extraott.com:900/live/3162523972/3791698850/401463443.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN AFC 2 FHD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN AFC 2 FHD
+http://extraott.com:900/live/3162523972/3791698850/401463442.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN AFC 3 FHD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN AFC 3 FHD
+http://extraott.com:900/live/3162523972/3791698850/401463441.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦| AR - BEIN SPORTS SD |✦●✦" tvg-logo="https://lo1.in/bss/bs.png" group-title="16. SPORT | BEIN SPORT",✦●✦| AR - BEIN SPORTS SD |✦●✦
+http://extraott.com:900/live/3162523972/3791698850/401463786.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 1 SD" tvg-logo="https://lo1.in/bss/bs1.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN-SPORTS 1 SD
+http://extraott.com:900/live/3162523972/3791698850/401463430.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 2 SD" tvg-logo="https://lo1.in/bss/bs2.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN-SPORTS 2 SD
+http://extraott.com:900/live/3162523972/3791698850/401463429.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 3 SD" tvg-logo="https://lo1.in/bss/bs3.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN-SPORTS 3 SD
+http://extraott.com:900/live/3162523972/3791698850/401463428.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 4 SD" tvg-logo="https://lo1.in/bss/bs4.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN-SPORTS 4 SD
+http://extraott.com:900/live/3162523972/3791698850/401463427.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 5 SD" tvg-logo="https://lo1.in/bss/bs5.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN-SPORTS 5 SD
+http://extraott.com:900/live/3162523972/3791698850/401463426.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 6 SD" tvg-logo="https://lo1.in/bss/bs6.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN-SPORTS 6 SD
+http://extraott.com:900/live/3162523972/3791698850/401463425.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 7 SD" tvg-logo="https://lo1.in/bss/bs7.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN-SPORTS 7 SD
+http://extraott.com:900/live/3162523972/3791698850/401463424.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 8 SD" tvg-logo="https://lo1.in/bss/bs8.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN-SPORTS 8 SD
+http://extraott.com:900/live/3162523972/3791698850/401463423.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN-SPORTS 9 SD" tvg-logo="https://lo1.in/bss/bs9.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN-SPORTS 9 SD
+http://extraott.com:900/live/3162523972/3791698850/401463422.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 1 SD" tvg-logo="https://lo1.in/bss/bsxtra1.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN Extra 1 SD
+http://extraott.com:900/live/3162523972/3791698850/401463421.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 2 SD" tvg-logo="https://lo1.in/bss/xtra.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN Extra 2 SD
+http://extraott.com:900/live/3162523972/3791698850/401577155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 3 SD" tvg-logo="https://lo1.in/bss/xtra.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN Extra 3 SD
+http://extraott.com:900/live/3162523972/3791698850/401577154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN AFC SD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN AFC SD
+http://extraott.com:900/live/3162523972/3791698850/401577153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN AFC 1 SD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN AFC 1 SD
+http://extraott.com:900/live/3162523972/3791698850/401577152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN AFC 2 SD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN AFC 2 SD
+http://extraott.com:900/live/3162523972/3791698850/401577151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN AFC 3 SD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN AFC 3 SD
+http://extraott.com:900/live/3162523972/3791698850/401577150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 01 (Tod)" tvg-logo="https://lo1.in/bss/bsS1.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN SPORTS 01 (Tod)
+http://extraott.com:900/live/3162523972/3791698850/401576226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 02 (Tod)" tvg-logo="https://lo1.in/bss/bsS2.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN SPORTS 02 (Tod)
+http://extraott.com:900/live/3162523972/3791698850/401576225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 03 (Tod)" tvg-logo="https://lo1.in/bss/bs3.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN SPORTS 03 (Tod)
+http://extraott.com:900/live/3162523972/3791698850/401576224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 04 (Tod)" tvg-logo="https://lo1.in/bss/bs4.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN SPORTS 04 (Tod)
+http://extraott.com:900/live/3162523972/3791698850/401576223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 05 (Tod)" tvg-logo="https://lo1.in/bein/beinn5.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN SPORTS 05 (Tod)
+http://extraott.com:900/live/3162523972/3791698850/401576222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 06 (Tod)" tvg-logo="https://lo1.in/bein/beinn6.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN SPORTS 06 (Tod)
+http://extraott.com:900/live/3162523972/3791698850/401576221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 07 (Tod)" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN SPORTS 07 (Tod)
+http://extraott.com:900/live/3162523972/3791698850/401576220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 08 (Tod)" tvg-logo="https://lo1.in/bss/bss8.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN SPORTS 08 (Tod)
+http://extraott.com:900/live/3162523972/3791698850/401576219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN SPORTS 09 (Tod)" tvg-logo="https://lo1.in/bss/BEIN09.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN SPORTS 09 (Tod)
+http://extraott.com:900/live/3162523972/3791698850/401576218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 1 (Tod)" tvg-logo="https://lo1.in/bss/xtra.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN Extra 1 (Tod)
+http://extraott.com:900/live/3162523972/3791698850/401576229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 2 (Tod)" tvg-logo="https://lo1.in/bss/xtra.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN Extra 2 (Tod)
+http://extraott.com:900/live/3162523972/3791698850/401576228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | BEIN Extra 3 (Tod)" tvg-logo="https://lo1.in/bss/xtra.png" group-title="16. SPORT | BEIN SPORT",AR | BEIN Extra 3 (Tod)
+http://extraott.com:900/live/3162523972/3791698850/401576227.m3u8
+
 
 ###############################################
->>>>>>>>>>>>>>>>  DAZN   <<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>  SPORT | DAZN  <<<<<<<<<<<<<<<<<<<<<<
 ###############################################
 https://raw.githubusercontent.com/quuen2024/llgnew/refs/heads/queen/llgtv
 ==================================VENDOR DAZN================================================
 
-#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkKi1Y5j9TGUhv-7kSEcye1jVigsK-G_pdQKrmFdr4D05i__Eq7zNDQ44X11lwuVKi_CTs-bTyXkdk4JM1h-GmXK5QjHWwdI8sKt7a3bG8spYnRRCbjJuQ9j1m7339Fsdt0m0tz_I4rM_9Fdh-3A3hUyo5nIP6hcPQjidDwWFKej3_O8afJL66UZYhTK4/s1563/DAZN-propose-une-remise-folle-sur-son-abonnement-pendant-quelques-jours-ne-ratez-pas-l-occasion-1935810.jpg",14. SPORT | DAZN & BEIN SPORT
-
+#EXTINF:-1 group-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkKi1Y5j9TGUhv-7kSEcye1jVigsK-G_pdQKrmFdr4D05i__Eq7zNDQ44X11lwuVKi_CTs-bTyXkdk4JM1h-GmXK5QjHWwdI8sKt7a3bG8spYnRRCbjJuQ9j1m7339Fsdt0m0tz_I4rM_9Fdh-3A3hUyo5nIP6hcPQjidDwWFKej3_O8afJL66UZYhTK4/s1563/DAZN-propose-une-remise-folle-sur-son-abonnement-pendant-quelques-jours-ne-ratez-pas-l-occasion-1935810.jpg",14. SPORT | DAZN
 
 ===
 
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeT4u1nAktEXfgIZwAfNRX4p1V92nn7ivtPBKnpSGBIzqiusuAPbfpNSRANU0ENBJEmp1vFnZyLpUbBCebg9ya400a-62HRackCrUXKV-j1dUMPqRi2OB8ONfz__XPi8C5NG8bbpuYmamrJZGqmbqdMNpF58uLIopuoHnSk8fVpTopJxVSvR3Tqc7_a_K9/s700/DAZN%201.png" group-title="14. SPORT | DAZN & BEIN SPORT",DAZN 1 IP
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeT4u1nAktEXfgIZwAfNRX4p1V92nn7ivtPBKnpSGBIzqiusuAPbfpNSRANU0ENBJEmp1vFnZyLpUbBCebg9ya400a-62HRackCrUXKV-j1dUMPqRi2OB8ONfz__XPi8C5NG8bbpuYmamrJZGqmbqdMNpF58uLIopuoHnSk8fVpTopJxVSvR3Tqc7_a_K9/s700/DAZN%201.png" group-title="14. SPORT | DAZN",DAZN 1 IP
 http://opplex.tv:8080/live/12345678910/12345678910/233072.ts
  
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuF1i_l_AfA80mcc4Lq1lfT4fMtbarGk9qLY0mqUHOHRO3xUEU6vZkO2neqby6yPd6WeGnd5TROJhfh7VrV9mtEChwCm3BuwxgU5UBJw44u7cA7NZWc1Otoxj4G-q2d6HG3DRVE78_QAltu_mwEoqnN5-Mc_faPxoWffkMzhX3hhrom8hyphenhyphencFNWSnrKj1Cl/s700/DAZN%202.png" group-title="14. SPORT | DAZN & BEIN SPORT",DAZN 2 IP
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuF1i_l_AfA80mcc4Lq1lfT4fMtbarGk9qLY0mqUHOHRO3xUEU6vZkO2neqby6yPd6WeGnd5TROJhfh7VrV9mtEChwCm3BuwxgU5UBJw44u7cA7NZWc1Otoxj4G-q2d6HG3DRVE78_QAltu_mwEoqnN5-Mc_faPxoWffkMzhX3hhrom8hyphenhyphencFNWSnrKj1Cl/s700/DAZN%202.png" group-title="14. SPORT | DAZN",DAZN 2 IP
 http://opplex.tv:8080/live/12345678910/12345678910/233075.ts
  
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiKz2gjwdO6gkv2-O46qBOz2E88ZL3T2Jt_wp12PXE2yAqhah2TStYAcdp-_N1aOsD-KRuCILuWySLIxfALYVBmsKxDYFJg9_m33sJLOikk9JnkXdZBTNBm7oEJyNiqzbfBw-L-CEri9QrUODM4q43UdtvwBbOqxLUqh9UefAkt6GhQjntKIKfWj_Zw7eZ/s700/DAZN%203.png" group-title="14. SPORT | DAZN & BEIN SPORT",DAZN 3 IP
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiKz2gjwdO6gkv2-O46qBOz2E88ZL3T2Jt_wp12PXE2yAqhah2TStYAcdp-_N1aOsD-KRuCILuWySLIxfALYVBmsKxDYFJg9_m33sJLOikk9JnkXdZBTNBm7oEJyNiqzbfBw-L-CEri9QrUODM4q43UdtvwBbOqxLUqh9UefAkt6GhQjntKIKfWj_Zw7eZ/s700/DAZN%203.png" group-title="14. SPORT | DAZN",DAZN 3 IP
 http://opplex.tv:8080/live/12345678910/12345678910/233078.ts
  
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-jc8xWae_hqCSp9S-ZfuQysf3FQyHKpYjecK2FxobAeUoFT4z4fZbnHDblNT9Hz6ZMBHwnHABjuUNS8jM98-v1bULFX1KOLZvZxKLpQPmAdcIxGXw64R4CMC2_Ju_uyfY3-908okbLW9a_xmzT3PX5pqiUcPGxTq1N_Pv9_J0AZ7QXipAxWvcWwdQGmC7/s700/DAZN%204.png" group-title="14. SPORT | DAZN & BEIN SPORT",DAZN 4 IP
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-jc8xWae_hqCSp9S-ZfuQysf3FQyHKpYjecK2FxobAeUoFT4z4fZbnHDblNT9Hz6ZMBHwnHABjuUNS8jM98-v1bULFX1KOLZvZxKLpQPmAdcIxGXw64R4CMC2_Ju_uyfY3-908okbLW9a_xmzT3PX5pqiUcPGxTq1N_Pv9_J0AZ7QXipAxWvcWwdQGmC7/s700/DAZN%204.png" group-title="14. SPORT | DAZN",DAZN 4 IP
 http://opplex.tv:8080/live/12345678910/12345678910/233080.ts
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiWawebaqDhH2HzcAIsDi161_SDXNI0zi2WqwomsH6x691GYPLXvAv4YSwKcJUyuY4i1xUgiIU6dC7NkarQOciPIjbvUa2Y9l7Y5HYpfuMOauV7VOscb8yYOFryCwJVjvPtDpxlYL4GMxk3ka-VOP-hUCPHFrrDrD9grEpv_jmUxNenW6G1pc2fC5z3WY3/s700/DAZN%205.png" group-title="14. SPORT | DAZN & BEIN SPORT",DAZN 5 IP
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiWawebaqDhH2HzcAIsDi161_SDXNI0zi2WqwomsH6x691GYPLXvAv4YSwKcJUyuY4i1xUgiIU6dC7NkarQOciPIjbvUa2Y9l7Y5HYpfuMOauV7VOscb8yYOFryCwJVjvPtDpxlYL4GMxk3ka-VOP-hUCPHFrrDrD9grEpv_jmUxNenW6G1pc2fC5z3WY3/s700/DAZN%205.png" group-title="14. SPORT | DAZN",DAZN 5 IP
 http://opplex.tv:8080/live/12345678910/12345678910/233082.ts
  
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbZp6ShzC_SqssOG2wpYeaz4IH_06yl82rcreUb6NwV3NdmhV70TlNDQweuh3QBmo9Auq3PYDkyBPPHGpR3SBNkC-VnZicI4zT3ZRcAJlB7enN5hXRChIowo8axKlFF8xNzei1CkdtkE0lfXmA5dsksUPhhEX8F1403NWCVOPz2y3RemOHhhpXRzCPfhJS/s700/DAZN%206.png" group-title="14. SPORT | DAZN & BEIN SPORT",DAZN 6 IP
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbZp6ShzC_SqssOG2wpYeaz4IH_06yl82rcreUb6NwV3NdmhV70TlNDQweuh3QBmo9Auq3PYDkyBPPHGpR3SBNkC-VnZicI4zT3ZRcAJlB7enN5hXRChIowo8axKlFF8xNzei1CkdtkE0lfXmA5dsksUPhhEX8F1403NWCVOPz2y3RemOHhhpXRzCPfhJS/s700/DAZN%206.png" group-title="14. SPORT | DAZN",DAZN 6 IP
 http://opplex.tv:8080/live/12345678910/12345678910/233084.ts
 
 
@@ -3723,59 +3894,59 @@ http://opplex.tv:8080/live/12345678910/12345678910/233084.ts
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
-#EXTINF:-1 tvg-id="DAZN F1" tvg-logo=" " group-title="14. SPORT | DAZN & BEIN SPORT",DAZN F1
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo=" " group-title="14. SPORT | DAZN",DAZN F1
 https://thedream.biz.id:443/working/prokci.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-#EXTINF:-1 tvg-id="DAZN 1 ES" tvg-logo=" " group-title="14. SPORT | DAZN & BEIN SPORT",DAZN 1 ES
+#EXTINF:-1 tvg-id="DAZN 1 ES" tvg-logo=" " group-title="14. SPORT | DAZN",DAZN 1 ES
 https://thedream.biz.id:443/working/prokci.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
-#EXTINF:-1 tvg-id="DAZN 2 ES" tvg-logo=" " group-title="14. SPORT | DAZN & BEIN SPORT",DAZN 2 ES
+#EXTINF:-1 tvg-id="DAZN 2 ES" tvg-logo=" " group-title="14. SPORT | DAZN",DAZN 2 ES
 https://thedream.biz.id:443/working/prokci.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
-#EXTINF:-1 tvg-id="DAZN LaLiga" tvg-logo=" " group-title="14. SPORT | DAZN & BEIN SPORT",DAZN 4 ES
+#EXTINF:-1 tvg-id="DAZN LaLiga" tvg-logo=" " group-title="14. SPORT | DAZN",DAZN 4 ES
 https://thedream.biz.id:443/working/prokci.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
-#EXTINF:-1 tvg-id="LaLiga HyperMotion 3" tvg-logo=" " group-title="14. SPORT | DAZN & BEIN SPORT",LaLiga HyperMotion
+#EXTINF:-1 tvg-id="LaLiga HyperMotion 3" tvg-logo=" " group-title="14. SPORT | DAZN",LaLiga HyperMotion
 https://thedream.biz.id:443/working/prokci.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 
-EXTINF:-1 tvg-id="DAZN 3 ES" tvg-logo=" " group-title="14. SPORT | DAZN & BEIN SPORT",DAZN 3 ES
+EXTINF:-1 tvg-id="DAZN 3 ES" tvg-logo=" " group-title="14. SPORT | DAZN",DAZN 3 ES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
 https://thedream.biz.id:443/working/prokci.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
 
-EXTINF:-1 tvg-id="DAZN 4 ES" tvg-logo=" " group-title="14. SPORT | DAZN & BEIN SPORT",DAZN 4 ES
+EXTINF:-1 tvg-id="DAZN 4 ES" tvg-logo=" " group-title="14. SPORT | DAZN",DAZN 4 ES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
 https://thedream.biz.id:443/working/prokci.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
 
-EXTINF:-1 tvg-id="LaLiga HyperMotion 1" tvg-logo=" " group-title="14. SPORT | DAZN & BEIN SPORT",LaLiga HyperMotion 1
+EXTINF:-1 tvg-id="LaLiga HyperMotion 1" tvg-logo=" " group-title="14. SPORT | DAZN",LaLiga HyperMotion 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
 https://thedream.biz.id:443/working/prokci.php/http://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
 
-EXTINF:-1 tvg-id="LaLiga HyperMotion 2" tvg-logo=" " group-title="14. SPORT | DAZN & BEIN SPORT",LaLiga HyperMotion 2
+EXTINF:-1 tvg-id="LaLiga HyperMotion 2" tvg-logo=" " group-title="14. SPORT | DAZN",LaLiga HyperMotion 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3784,177 +3955,149 @@ https://thedream.biz.id:443/working/prokci.php/http://ottb.live.cf.ww.aiv-cdn.ne
 
 ---------------------
 
-#EXTINF:-1 tvg-id="DAZN 1 DE.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="14. SPORT | DAZN & BEIN SPORT" , DAZN 1 
+#EXTINF:-1 tvg-id="DAZN 1 DE.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="14. SPORT | DAZN" , DAZN 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://windnew.iosplayer.ru/wind/premium445/mono.m3u8
 
-#EXTINF:-1 tvg-id="DAZN 2 DE.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="14. SPORT | DAZN & BEIN SPORT" , DAZN 2
+#EXTINF:-1 tvg-id="DAZN 2 DE.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="14. SPORT | DAZN" , DAZN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://zekonew.iosplayer.ru/zeko/premium446/mono.m3u8
 
-#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="14. SPORT | DAZN & BEIN SPORT" , DAZN 3 
+#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="14. SPORT | DAZN" , DAZN 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://zekonew.iosplayer.ru/zeko/premium447/mono.m3u8
 
-#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="14. SPORT | DAZN & BEIN SPORT" , DAZN 4
+#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="14. SPORT | DAZN" , DAZN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://zekonew.iosplayer.ru/zeko/premium448/mono.m3u8
 
 --------
-
-===========================================================================================
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/beINSports.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN 1{4K}
-http://45.139.122.148:8000/play/a004
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/beINSports.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN 2{4K}
-http://45.139.122.148:8000/play/a005
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/beINSports.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN 3{4K}
-http://45.139.122.148:8000/play/a006
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/beINSports.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN 4{4K}
-http://45.139.122.148:8000/play/a007
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/beINSports.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN 5{4K}
-http://45.139.122.148:8000/play/a008
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/beINSports.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN 6{4K}
-http://45.139.122.148:8000/play/a009
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/beINSports.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN 7{4K}
-http://45.139.122.148:8000/play/a00a
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/beINSports.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN 8{4K}
-http://45.139.122.148:8000/play/a00b
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/refs/heads/queen/beINSports.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN 9{4K}
-http://45.139.122.148:8000/play/a00c
-
----------
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN Sports MENA English 1
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://windnew.koskoros.ru/wind/premium61/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN Sports MENA English 2
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://zekonew.koskoros.ru/zeko/premium90/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN Sports MENA English 3
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://windnew.koskoros.ru/wind/premium46/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN Sports MENA 1
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://dokko1new.koskoros.ru/dokko1/premium91/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN Sports MENA 2
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://dokko1new.koskoros.ru/dokko1/premium92/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN Sports MENA 3
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://dokko1new.koskoros.ru/dokko1/premium93/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN Sports MENA 4
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://dokko1new.koskoros.ru/dokko1/premium94/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN Sports MENA 5
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://dokko1new.koskoros.ru/dokko1/premium95/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN Sports MENA 6
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://dokko1new.koskoros.ru/dokko1/premium96/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN Sports MENA 7
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://dokko1new.koskoros.ru/dokko1/premium97/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN Sports MENA 8
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://ddy6new.koskoros.ru/ddy6/premium98/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN Sports MENA 9
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://ddy6new.koskoros.ru/ddy6/premium99/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN SPORTS XTRA 1
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://ddy6new.koskoros.ru/ddy6/premium100/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN SPORTS XTRA 2
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://windnew.koskoros.ru/wind/premium43/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN Sports MAX 4 France
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://ddy6new.koskoros.ru/ddy6/premium494/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN Sports MAX 5 France
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://ddy6new.koskoros.ru/ddy6/premium495/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN Sports MAX 6 France
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://ddy6new.koskoros.ru/ddy6/premium496/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN Sports MAX 7 France
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://ddy6new.koskoros.ru/ddy6/premium497/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN Sports MAX 8 France
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://ddy6new.koskoros.ru/ddy6/premium498/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN Sports MAX 9 France
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://ddy6new.koskoros.ru/ddy6/premium499/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN Sports MAX 10 France
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://ddy6new.koskoros.ru/ddy6/premium500/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN SPORTS 1 France
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://zekonew.koskoros.ru/zeko/premium116/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN SPORTS 2 France
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://zekonew.koskoros.ru/zeko/premium117/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN SPORTS 3 France
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://zekonew.koskoros.ru/zeko/premium118/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN SPORTS 1 Turkey
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://zekonew.koskoros.ru/zeko/premium62/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN SPORTS 2 Turkey
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://zekonew.koskoros.ru/zeko/premium63/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN SPORTS 3 Turkey
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://zekonew.koskoros.ru/zeko/premium64/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN SPORTS 4 Turkey
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://zekonew.koskoros.ru/zeko/premium67/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",BeIN Sports HD Qatar
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://windnew.koskoros.ru/wind/premium578/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",BeIN SPORTS USA
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://zekonew.koskoros.ru/zeko/premium425/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN SPORTS en Español
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://zekonew.koskoros.ru/zeko/premium372/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="14. SPORT | DAZN & BEIN SPORT",beIN SPORTS Australia 2
-#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
-https://ddy6new.koskoros.ru/ddy6/premium492/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦| DAZN |✦●✦" tvg-logo="https://lo1.in/fr/fr.png" group-title="14. SPORT | DAZN",✦●✦| DAZN |✦●✦
+http://extraott.com:900/live/3162523972/3791698850/1108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 1 HD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| DAZN 1 HD
+http://extraott.com:900/live/3162523972/3791698850/401389147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 2 HD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| DAZN 2 HD
+http://extraott.com:900/live/3162523972/3791698850/401389145.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 3 HD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| DAZN 3 HD
+http://extraott.com:900/live/3162523972/3791698850/401389141.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 4 HD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| DAZN 4 HD
+http://extraott.com:900/live/3162523972/3791698850/401389140.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN 5 HD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| DAZN 5 HD
+http://extraott.com:900/live/3162523972/3791698850/401389139.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1 DAZN PRIME MULTIPLEX HD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 1 DAZN PRIME MULTIPLEX HD
+http://extraott.com:900/live/3162523972/3791698850/400231732.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1 DAZN PRIME 1 HD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 1 DAZN PRIME 1 HD
+http://extraott.com:900/live/3162523972/3791698850/400218117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1 DAZN PRIME 2 HD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 1 DAZN PRIME 2 HD
+http://extraott.com:900/live/3162523972/3791698850/400231738.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1 DAZN PRIME 3 HD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 1 DAZN PRIME 3 HD
+http://extraott.com:900/live/3162523972/3791698850/400231737.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1 DAZN PRIME 4 HD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 1 DAZN PRIME 4 HD
+http://extraott.com:900/live/3162523972/3791698850/400231736.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1 DAZN PRIME 5 HD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 1 DAZN PRIME 5 HD
+http://extraott.com:900/live/3162523972/3791698850/400231735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1 DAZN PRIME 6 HD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 1 DAZN PRIME 6 HD
+http://extraott.com:900/live/3162523972/3791698850/400231734.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1 DAZN PRIME 7 HD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 1 DAZN PRIME 7 HD
+http://extraott.com:900/live/3162523972/3791698850/400231733.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1 DAZN PRIME 8 HD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 1 DAZN PRIME 8 HD
+http://extraott.com:900/live/3162523972/3791698850/400272803.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1 DAZN PRIME MULTIPLEX FHD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 1 DAZN PRIME MULTIPLEX FHD
+http://extraott.com:900/live/3162523972/3791698850/400231127.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1 DAZN PRIME 1 FHD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 1 DAZN PRIME 1 FHD
+http://extraott.com:900/live/3162523972/3791698850/400218118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1 DAZN PRIME 2 FHD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 1 DAZN PRIME 2 FHD
+http://extraott.com:900/live/3162523972/3791698850/400218115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1 DAZN PRIME 3 FHD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 1 DAZN PRIME 3 FHD
+http://extraott.com:900/live/3162523972/3791698850/400218114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1 DAZN PRIME 4 FHD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 1 DAZN PRIME 4 FHD
+http://extraott.com:900/live/3162523972/3791698850/400218113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1 DAZN PRIME 5 FHD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 1 DAZN PRIME 5 FHD
+http://extraott.com:900/live/3162523972/3791698850/400218112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1 DAZN PRIME 6 FHD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 1 DAZN PRIME 6 FHD
+http://extraott.com:900/live/3162523972/3791698850/400218111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1 DAZN PRIME 7 FHD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 1 DAZN PRIME 7 FHD
+http://extraott.com:900/live/3162523972/3791698850/400218110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1 DAZN PRIME 8 FHD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 1 DAZN PRIME 8 FHD
+http://extraott.com:900/live/3162523972/3791698850/400218109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1 DAZN PRIME MULTIPLEX  HEVC" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 1 DAZN PRIME MULTIPLEX  HEVC
+http://extraott.com:900/live/3162523972/3791698850/400231697.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1 DAZN PRIME 1 HEVC" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 1 DAZN PRIME 1 HEVC
+http://extraott.com:900/live/3162523972/3791698850/400231704.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1 DAZN PRIME 2 HEVC" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 1 DAZN PRIME 2 HEVC
+http://extraott.com:900/live/3162523972/3791698850/400231703.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1 DAZN PRIME 3 HEVC" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 1 DAZN PRIME 3 HEVC
+http://extraott.com:900/live/3162523972/3791698850/400231702.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1 DAZN PRIME 4 HEVC" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 1 DAZN PRIME 4 HEVC
+http://extraott.com:900/live/3162523972/3791698850/400231701.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1 DAZN PRIME 5 HEVC" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 1 DAZN PRIME 5 HEVC
+http://extraott.com:900/live/3162523972/3791698850/400231700.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1 DAZN PRIME 6 HEVC" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 1 DAZN PRIME 6 HEVC
+http://extraott.com:900/live/3162523972/3791698850/400231699.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1 DAZN PRIME 7 HEVC" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 1 DAZN PRIME 7 HEVC
+http://extraott.com:900/live/3162523972/3791698850/400231698.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 1 DAZN PRIME 8 HEVC" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 1 DAZN PRIME 8 HEVC
+http://extraott.com:900/live/3162523972/3791698850/156656.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 2 DAZN PRIME 1 HD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 2 DAZN PRIME 1 HD
+http://extraott.com:900/live/3162523972/3791698850/156635.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 2 DAZN PRIME 2 HD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 2 DAZN PRIME 2 HD
+http://extraott.com:900/live/3162523972/3791698850/156634.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 2 DAZN PRIME 3 HD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 2 DAZN PRIME 3 HD
+http://extraott.com:900/live/3162523972/3791698850/156633.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 2 DAZN PRIME 4 HD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 2 DAZN PRIME 4 HD
+http://extraott.com:900/live/3162523972/3791698850/156632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 2 DAZN PRIME 5 HD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 2 DAZN PRIME 5 HD
+http://extraott.com:900/live/3162523972/3791698850/156631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 2 DAZN PRIME 6 HD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 2 DAZN PRIME 6 HD
+http://extraott.com:900/live/3162523972/3791698850/156630.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 2 DAZN PRIME 7 HD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 2 DAZN PRIME 7 HD
+http://extraott.com:900/live/3162523972/3791698850/156629.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| LIGUE 2 DAZN PRIME 8 HD" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| LIGUE 2 DAZN PRIME 8 HD
+http://extraott.com:900/live/3162523972/3791698850/156628.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN EVENT 1" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| DAZN EVENT 1
+http://extraott.com:900/live/3162523972/3791698850/28197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN EVENT 2" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| DAZN EVENT 2
+http://extraott.com:900/live/3162523972/3791698850/28198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN EVENT 3" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| DAZN EVENT 3
+http://extraott.com:900/live/3162523972/3791698850/28199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN EVENT 4" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| DAZN EVENT 4
+http://extraott.com:900/live/3162523972/3791698850/28200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN EVENT 5" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| DAZN EVENT 5
+http://extraott.com:900/live/3162523972/3791698850/28201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN EVENT 6" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| DAZN EVENT 6
+http://extraott.com:900/live/3162523972/3791698850/28202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN EVENT 7" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| DAZN EVENT 7
+http://extraott.com:900/live/3162523972/3791698850/28203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN EVENT 8" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| DAZN EVENT 8
+http://extraott.com:900/live/3162523972/3791698850/28204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN EVENT 9" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| DAZN EVENT 9
+http://extraott.com:900/live/3162523972/3791698850/28205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN EVENT 10" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| DAZN EVENT 10
+http://extraott.com:900/live/3162523972/3791698850/28206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN EVENT 11" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| DAZN EVENT 11
+http://extraott.com:900/live/3162523972/3791698850/28207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN EVENT 12" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| DAZN EVENT 12
+http://extraott.com:900/live/3162523972/3791698850/28208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN EVENT 13" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| DAZN EVENT 13
+http://extraott.com:900/live/3162523972/3791698850/28209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN EVENT 14" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| DAZN EVENT 14
+http://extraott.com:900/live/3162523972/3791698850/28210.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN EVENT 15" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| DAZN EVENT 15
+http://extraott.com:900/live/3162523972/3791698850/28211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN EVENT 16" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| DAZN EVENT 16
+http://extraott.com:900/live/3162523972/3791698850/28212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN EVENT 17" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| DAZN EVENT 17
+http://extraott.com:900/live/3162523972/3791698850/28213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN EVENT 18" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| DAZN EVENT 18
+http://extraott.com:900/live/3162523972/3791698850/28214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN EVENT 19" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| DAZN EVENT 19
+http://extraott.com:900/live/3162523972/3791698850/28215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| DAZN EVENT 20" tvg-logo="https://lo1.in/fr/dznn.png" group-title="14. SPORT | DAZN",FR| DAZN EVENT 20
+http://extraott.com:900/live/3162523972/3791698850/28216.m3u8
 
 
 ###############################################
